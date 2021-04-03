@@ -42,6 +42,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Work Experience
 
 `December 2020 - Present`
+
 __I.T. Student Project Manager__, Rexburg, Id
 
 •	Restructure enterprise level software project implementation affecting over 20,000 users to reach quality and schedule objectives established by key stakeholders
@@ -56,7 +57,9 @@ __I.T. Student Project Manager__, Rexburg, Id
 ### Kiosk Attendant
 
 `September 2019 - December 2020`
+
 __University Food Services__, Rexburg, Id
+
 •	Provide customer service to a wide variety of people, including students and faculty members
 
 •	Manage different orders within a short amount of time
@@ -65,6 +68,7 @@ __University Food Services__, Rexburg, Id
 
 
 `August 2013 - February 2014`
+
 __Small Business Owner__, Tegucigalpa, HN
 
 •	Earned a 60% profit margin, by targeting marketing to the most likely buyers and obtaining frequent buyers
@@ -76,6 +80,7 @@ __Small Business Owner__, Tegucigalpa, HN
 ## Service History
 
 `2017-2019`
+
 __Full-Time Volunteer Missionary__, Dominican Republic
 
 •	Developed abilities such as: Social Skills, Effective Planning, Budget Management, Time Management, Discipline, Leadership, Creativity, Initiative, Effective Decision Making, Accounting Skills, etc  
