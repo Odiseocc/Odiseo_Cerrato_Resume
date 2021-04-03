@@ -5,8 +5,6 @@ title: Odiseo Cerrato's Resume
 # Odiseo Cerrato
 Student looking for employment opportunities to gain more valuable experiences and connections.
 
-I want to check the pull command
-
 <div id="webaddress">
 <a href="cer17007@byui.edu">cer17007@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
